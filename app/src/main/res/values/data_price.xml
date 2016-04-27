@@ -1,0 +1,41 @@
+<resources>
+    <string-array name="price_meatlover">
+        <item>IDR. 400.000 for 2 (approx.)</item>
+        <item>IDR  140.000 for 2 (approx.)</item>
+        <item>IDR. 98.000 + TAX (Lunch)</item>
+    </string-array>
+    <string-array name="price_sushi">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="price_fastfood">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="price_dessert">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="price_breadcoffee">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="price_beverages">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

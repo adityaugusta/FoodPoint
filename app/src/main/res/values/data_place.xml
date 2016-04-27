@@ -1,0 +1,41 @@
+<resources>
+    <string-array name="place_meatlover">
+        <item>Gyu Kaku Prime</item>
+        <item>Bara Putih</item>
+        <item>KOBESHI by Shabu2House</item>
+    </string-array>
+    <string-array name="place_sushi">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+    <string-array name="place_fastfood">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="place_dessert">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="place_breadcoffee">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="place_beverages">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:id="@+id/nav_share" android:icon="@android:drawable/ic_menu_share" android:title="Share" />
+    </group>
+
+    <item android:icon="@android:drawable/ic_menu_search" android:title="Cuisines">
+        <menu>
+            <group>
+                <item android:id="@+id/nav_cuisines_all" android:title="All" />
+                <item android:id="@+id/nav_cuisines_asian" android:title="Asian Food" />
+                <item android:id="@+id/nav_cuisines_western" android:title="Western Food" />
+                <item android:id="@+id/nav_cuisines_indonesian" android:title="Indonesian Food" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Settings">
+        <menu>
+            <item android:id="@+id/nav_setting" android:icon="@android:drawable/ic_menu_manage" android:title="Settings" />
+        </menu>
+    </item>
+
+
+
+</menu>

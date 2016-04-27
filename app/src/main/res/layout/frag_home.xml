@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_1">
+
+    <ScrollView
+        android:id="@+id/scroll_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <include layout="@layout/view_slider" />
+            <include layout="@layout/view_trending_this_week" />
+            <include layout="@layout/view_explore" />
+            <include layout="@layout/view_feed" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include android:id="@+id/detail_trending" layout="@layout/view_trending_detail" />
+
+</RelativeLayout>

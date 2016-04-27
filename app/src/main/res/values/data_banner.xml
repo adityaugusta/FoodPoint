@@ -1,0 +1,13 @@
+<resources>
+    <integer-array name="banner_meatlover">
+        <item>@drawable/img_bd_1</item>
+        <item>@drawable/img_bd_3</item>
+        <item>@drawable/img_bd_2</item>
+    </integer-array>
+    <integer-array name="banner_sushi">
+        <item>@drawable/img_bds_1</item>
+        <item>@drawable/img_bds_3</item>
+        <item>@drawable/img_bds_2</item>
+    </integer-array>
+
+</resources>

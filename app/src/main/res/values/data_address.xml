@@ -1,0 +1,41 @@
+<resources>
+    <string-array name="address_meatlover">
+        <item>Citywalk Sudirman, Lantai 1, Jl. KH Mas Mansyur, Sudirman, Jakarta</item>
+        <item>Jl. Fatmawati Raya No. 33D, Fatmawati, Jakarta</item>
+        <item>Street Gallery, Lantai 2, Jl. Metro Pondok Indah, Pondok Indah, Jakarta</item>
+    </string-array>
+    <string-array name="address_sushi">
+        <item>11</item>
+        <item>22</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="address_fastfood">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="address_dessert">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="address_breadcoffee">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="address_beverages">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

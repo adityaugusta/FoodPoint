@@ -1,0 +1,8 @@
+<resources>
+    <integer-array name="rating_meatlover">
+        <item>@drawable/rate_4</item>
+        <item>@drawable/rate_3</item>
+        <item>@drawable/rate_4</item>
+    </integer-array>
+
+</resources>
