@@ -1,3 +1,3 @@
-# FoodPoint
 Android Application Project
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material--Animations-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/1880)
+
+[![CTRL Developer](https://img.shields.io/badge/CTRL%20Developer-Food%20Point-yellow.svg?style=flat-square)](https://www.facebook.com/CTRLDevTeam/)
